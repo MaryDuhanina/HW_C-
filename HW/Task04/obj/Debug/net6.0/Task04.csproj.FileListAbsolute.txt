@@ -1,0 +1,15 @@
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.csproj.AssemblyReference.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.AssemblyInfoInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.AssemblyInfo.cs
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.csproj.CoreCompileInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/bin/Debug/net6.0/Task04
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/bin/Debug/net6.0/Task04.deps.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/bin/Debug/net6.0/Task04.runtimeconfig.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/bin/Debug/net6.0/Task04.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/bin/Debug/net6.0/Task04.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/refint/Task04.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/Task04.genruntimeconfig.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar1/HW/Task04/obj/Debug/net6.0/ref/Task04.dll
